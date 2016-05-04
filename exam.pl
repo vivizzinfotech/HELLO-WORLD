@@ -1,4 +1,6 @@
-#question 1_________________________________________________________________
+#AUTHUR VIVEK
+#DATE 12/3/2016
+question 1_________________________________________________________________
 print "create a hash to store the genes and associated gene\n";
 %gene=(pk12 => 'augc',ak12 => 'uguc');
 foreach(%gene)
